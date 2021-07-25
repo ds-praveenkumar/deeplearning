@@ -75,3 +75,5 @@ and copy it to `C:\Windows\System32` this will require Admin Rights.
 
 ## Post Link
 - [Medium post Link](https://medium.com/@princerocker22/setting-up-the-deep-learning-environment-with-cuda-b00a0195da9e)
+
+
