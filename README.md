@@ -1,4 +1,4 @@
-# deeplearning
+# Deeplearning
 This repo contains tutorials and code for getting into the world of deeplearning.
 
 # Setting up the Deep Learning environment
