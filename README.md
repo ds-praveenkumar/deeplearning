@@ -23,7 +23,7 @@ Now copy the contents of
 3. `cudnn-10.1-windows10-x64-v7.6.5.32\cuda\include\*` --> `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include`
 
 ### 4. Install Anaconda 
-Indtall anaconda using this [link](https://www.anaconda.com/download/) then create an python environment and install [tensorflow]( https://www.tensorflow.org/install/gpu) using the below mentioned steps:
+Install anaconda using this [link](https://www.anaconda.com/download/) then create an python environment and install [tensorflow]( https://www.tensorflow.org/install/gpu) using the below mentioned steps:
 ```
 conda create -n tensorflow python=3.8
 
@@ -69,6 +69,9 @@ output
 Using device: cuda
 ```
 
-### 6. Troubleshoot:
+### 6. Troubleshoot
 If you see error in opening  `cudart64_101.dll` Download it from [here](https://www.dll-files.com/download/1d7955354884a9058e89bb8ea34415c9/cudart64_101.dll.html?c=eVJsNVBIa1hvenBxV004Vkl4eDd3dz09)
 and copy it to `C:\Windows\System32` this will require Admin Rights.
+
+## Post Link
+- [Medium post Link](https://medium.com/@princerocker22/setting-up-the-deep-learning-environment-with-cuda-b00a0195da9e)
